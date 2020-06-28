@@ -1,2 +1,2 @@
 # First_Kaggle_Comp
-Steps in data science projects
+A simple guide to the standard steps in tackling a Kaggle Classification Problem
